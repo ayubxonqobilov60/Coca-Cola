@@ -1,0 +1,46 @@
+<html>
+    <title>Coca-cola</title>
+    <body>
+        <header>
+            <img src="https://dg6qn11ynnp6a.cloudfront.net/wp-content/uploads/2015/10/21133323/CocaCola_7.jpg"width="40px" height="40px"/>
+            <a href="#Coca-cola">фотки вкусной Coca-cola.</a>
+
+            <a href="#Coca-cola2">Ссылка вниз</a>
+            </header>
+
+        <main>
+            <h1>Coca-Cola</h1>
+            <h2>Газированный напиток</h2>
+             <img src="https://c4.wallpaperflare.com/wallpaper/768/283/590/coke-cola-coca-products-bottles-photography-grass-wallpaper-preview.jpg">
+        <h1 id="Coca-cola">Про Coca-Cola</h1>
+            <p>Основные ингредиенты кока-колы были таковы: три части листьев коки (из этих же листьев в 1859 году Альберт Ниман (нем. Albert Niemann) выделил особый компонент (наркотик) и назвал его кокаином) на одну часть орехов тропического дерева колы. Получившийся напиток был запатентован как лекарственное средство «от расстройств нервной системы»[источник не указан 1836 дней] и начал продаваться через автомат в крупнейшей городской аптеке Джекоба в Атланте. </p>
+            
+            <table style="border:1px solid blue;border-collapse:collapse">
+        <tr>
+            <td style="border:1px solid blue;">Тип</td>
+            <td style="border:1px solid blue;">Coca-cola</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Крепость</td>
+            <td style="border:1px solid blue;">0 процент</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Производитель</td>
+            <td style="border:1px solid blue;">The Coca-Cola Company</td>
+        </tr>
+       <tr>
+            <td style="border:1px solid blue;">Происхождение</td>
+            <td style="border:1px solid blue;"> США</td>
+        </tr>
+               <tr>
+            <td style="border:1px solid blue;">Год</td>
+            <td style="border:1px solid blue;">1886</td>
+        </tr>
+            </table>
+            <img src="https://preview.free3d.com/img/2018/11/2162680873743287802/ekl97vus-900.jpg">
+            </main>
+            <h1 id="Coca-cola2">Coca-cola</h1>
+            <p>улица Новои номер 994562334</p>
+        <footer>спасибо большое</footer>
+    </body>
+</html>
